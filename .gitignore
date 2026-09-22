@@ -1,0 +1,8 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+
+data/processed_issues.json
+reports/issues_report.json
+logs/automation.log
